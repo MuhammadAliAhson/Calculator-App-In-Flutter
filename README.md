@@ -2,6 +2,10 @@
 
 This is a basic calculator application built using Flutter. It provides a simple interface for performing arithmetic operations.
 
+
+![Alt text](../../../Desktop/calculator.PNG)
+
+
 ## How to Use
 
 1. Ensure you have Flutter installed on your machine.
