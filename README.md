@@ -2,7 +2,7 @@
 
 This is a basic calculator application built using Flutter. It provides a simple interface for performing arithmetic operations.
 
-
+## UI
 <img width="960" alt="calculator" src="https://github.com/MuhammadAliAhson/Calculator-App-In-Flutter/assets/105967134/57a9514c-d111-4fdd-bd2a-99a4ce65bb22">
 
 
